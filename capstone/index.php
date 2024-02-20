@@ -9,7 +9,7 @@
   <meta content="" name="description">
   <meta content="" name="keywords">
 
-  <!-- Favicons -->
+  <!-- Faviconss -->
   <link href="assets/img/favicon.png" rel="icon">
   <link href="assets/img/logoui.png" rel="icon">
 
